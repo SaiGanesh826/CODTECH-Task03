@@ -56,7 +56,7 @@ class Editor {
                 month: 'long',
                 day: 'numeric'
             }),
-            author: 'Anonymous',
+            author: 'ME_aLONE',
             readTime: Math.ceil(document.getElementById('content').value.split(' ').length / 200)
         };
 
